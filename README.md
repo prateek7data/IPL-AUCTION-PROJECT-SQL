@@ -3,6 +3,25 @@ IPL Data Analysis Project
 Overview
 This project focuses on the analysis of Indian Premier League (IPL) data spanning from the first season to the 13th season (2020). 
 The dataset includes comprehensive information about matches and ball-by-ball details, providing insights into player performances, team strategies, and auction strategies.
+
+Project Progress
+During this project, I:
+
+Explored Data: Conducted an in-depth exploration of the provided IPL dataset to understand its structure and key features.
+
+Database Setup: Imported the dataset into a SQL server, ensuring proper configuration for seamless query execution.
+
+SQL Queries: Crafted SQL queries to address specific project tasks, focusing on acquiring key player types through strategic auctioning.
+
+Presentation File
+The presentation file (IPL Auction Player Analysis) encapsulates a visual representation of the project's findings, including:
+
+Visualizations: Graphical representations of key metrics, aiding in the interpretation of data trends.
+
+Insights: Summarized insights derived from the analysis, providing a quick overview of the project's outcomes.
+
+
+
 Instructions for Use
 Clone the Repository:
 
